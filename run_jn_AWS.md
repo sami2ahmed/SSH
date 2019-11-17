@@ -62,6 +62,3 @@ Here's mine for reference:
 3. Finally, go back to your tab in the browser with the jupyter notebook you pasted in the last section, delete `8888` in the address, and type in `54321` (so that you have `http://localhost:54321/tree`) refresh the page.
 
 Congrats you now have the power of AWS to run your nasty Python code!
-
-# Additional Resources
-Slack Sami
