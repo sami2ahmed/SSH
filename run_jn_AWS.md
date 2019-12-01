@@ -35,6 +35,10 @@ Copy and paste into text editor, change it to:
 1. Within your ubuntu user run:
 `wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh`
 
+1a. Then run:
+`bash Anaconda3-2018.12-Linux-x86_64.sh`
+
+
 2. Press enter (possibly a few times)
 3. Type out `yes` to all yes or no questions
 4. Hit enter and have Anacondas install in the default home/ubuntu location
