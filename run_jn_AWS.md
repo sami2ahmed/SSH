@@ -44,6 +44,7 @@ Copy and paste into text editor, change it to:
 4. Hit enter and have Anacondas install in the default home/ubuntu location
 5. You should now see a ton of output starting with:
 `Unpacking payload ...`
+5a. Finally initialize Anaconda with one final `yes` 
 6. Exit the conda >>> by typing `exit()`
 
 # Launch Jupyter on VM
